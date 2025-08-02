@@ -49,3 +49,5 @@ out/
 .DS_Store
 # VSCode
 .vscode/
+
+!*.env.example
